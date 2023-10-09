@@ -8,5 +8,5 @@ public class Main {
         obj.setName("ram");
         System.out.println(obj.getName());
     }
-
+  
 }
